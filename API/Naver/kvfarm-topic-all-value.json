@@ -1,0 +1,56 @@
+//https://pt.map.naver.com/api/kvfarm-topic-all-value?topic=train-route-history&ts=1689910527858
+
+{
+    "res": {
+        "meta": {
+            "total": 7,
+            "page": 1,
+            "count": 7
+        },
+        "items": [
+            {
+                "key": "127.1043773,37.4855438-127.748926,34.753011",
+                "value": "{\"type\":\"routeType\",\"data\":{\"departure\":{\"stopId\":3300333,\"stopCode\":\"0551\",\"stopName\":\"수서역\",\"group\":\"7\",\"major\":null,\"ktxStop\":\"N\",\"srtStop\":\"Y\",\"latitude\":\"37.4855438\",\"longitude\":\"127.1043773\",\"distance\":0,\"city\":{\"id\":1000,\"fullName\":\"서울특별시\",\"name\":\"서울\"},\"provider\":{\"providerId\":302,\"providerName\":\"srt\"},\"expanded\":false},\"arrival\":{\"stopId\":3300171,\"stopCode\":\"0053\",\"stopName\":\"여수EXPO역\",\"group\":\"8\",\"major\":\"34\",\"ktxStop\":\"Y\",\"srtStop\":\"N\",\"latitude\":\"34.753011\",\"longitude\":\"127.748926\",\"distance\":0,\"city\":{\"id\":5001,\"fullName\":\"전라남도\",\"name\":\"전남\"},\"provider\":{\"providerId\":301,\"providerName\":\"korail\"},\"expanded\":false}},\"date\":1689910523768,\"key\":\"127.1043773,37.4855438-127.748926,34.753011\"}",
+                "updateTime": 1689910527166,
+                "sync": false
+            },
+            {
+                "key": "126.965077719999,37.53005077-126.94575797,35.94049604",
+                "value": "{\"type\":\"routeType\",\"data\":{\"departure\":{\"stopId\":3300197,\"stopCode\":\"0104\",\"stopName\":\"용산역\",\"group\":\"8\",\"major\":\"2\",\"ktxStop\":\"Y\",\"srtStop\":\"N\",\"latitude\":\"37.53005077\",\"longitude\":\"126.965077719999\",\"distance\":0,\"city\":{\"id\":1000,\"fullName\":\"서울특별시\",\"name\":\"서울\"},\"provider\":{\"providerId\":301,\"providerName\":\"korail\"},\"expanded\":false},\"arrival\":{\"stopId\":3300212,\"stopCode\":\"0030\",\"stopName\":\"익산역\",\"group\":\"8\",\"major\":\"28\",\"ktxStop\":\"Y\",\"srtStop\":\"Y\",\"latitude\":\"35.94049604\",\"longitude\":\"126.94575797\",\"distance\":0,\"city\":{\"id\":9001,\"fullName\":\"전라북도\",\"name\":\"전북\"},\"provider\":{\"providerId\":301,\"providerName\":\"korail\"},\"expanded\":false}},\"date\":1689756153296,\"key\":\"126.965077719999,37.53005077-126.94575797,35.94049604\"}",
+                "updateTime": 1689756154195,
+                "sync": false
+            },
+            {
+                "key": "126.970664996349,37.5550333507298-129.042213628265,35.1152199753267",
+                "value": "{\"type\":\"routeType\",\"data\":{\"departure\":{\"stopId\":3300128,\"stopCode\":\"0001\",\"stopName\":\"서울역\",\"group\":\"7\",\"major\":\"1\",\"ktxStop\":\"Y\",\"srtStop\":\"N\",\"latitude\":\"37.5550333507298\",\"longitude\":\"126.970664996349\",\"distance\":0,\"city\":{\"id\":1000,\"fullName\":\"서울특별시\",\"name\":\"서울\"},\"provider\":{\"providerId\":301,\"providerName\":\"korail\"},\"expanded\":false},\"arrival\":{\"stopId\":3300108,\"stopCode\":\"0020\",\"stopName\":\"부산역\",\"group\":\"6\",\"major\":\"21\",\"ktxStop\":\"Y\",\"srtStop\":\"Y\",\"latitude\":\"35.1152199753267\",\"longitude\":\"129.042213628265\",\"distance\":0,\"city\":{\"id\":7000,\"fullName\":\"부산광역시\",\"name\":\"부산\"},\"provider\":{\"providerId\":301,\"providerName\":\"korail\"},\"expanded\":false}},\"date\":1689577839280,\"key\":\"126.970664996349,37.5550333507298-129.042213628265,35.1152199753267\"}",
+                "updateTime": 1689577839664,
+                "sync": false
+            },
+            {
+                "key": "127.085873483236,37.5970913025278-129.042213628265,35.1152199753267",
+                "value": "{\"type\":\"routeType\",\"data\":{\"departure\":{\"stopId\":3300310,\"stopCode\":\"0635\",\"stopName\":\"상봉역\",\"group\":\"7\",\"major\":null,\"ktxStop\":\"Y\",\"srtStop\":\"N\",\"latitude\":\"37.5970913025278\",\"longitude\":\"127.085873483236\",\"distance\":0,\"city\":{\"id\":1000,\"fullName\":\"서울특별시\",\"name\":\"서울\"},\"provider\":{\"providerId\":301,\"providerName\":\"korail\"},\"expanded\":false},\"arrival\":{\"stopId\":3300108,\"stopCode\":\"0020\",\"stopName\":\"부산역\",\"group\":\"6\",\"major\":\"21\",\"ktxStop\":\"Y\",\"srtStop\":\"Y\",\"latitude\":\"35.1152199753267\",\"longitude\":\"129.042213628265\",\"distance\":0,\"city\":{\"id\":7000,\"fullName\":\"부산광역시\",\"name\":\"부산\"},\"provider\":{\"providerId\":301,\"providerName\":\"korail\"},\"expanded\":false}},\"date\":1689577829083,\"key\":\"127.085873483236,37.5970913025278-129.042213628265,35.1152199753267\"}",
+                "updateTime": 1689577829475,
+                "sync": false
+            },
+            {
+                "key": "127.085873483236,37.5970913025278-127.1043773,37.4855438",
+                "value": "{\"type\":\"routeType\",\"data\":{\"departure\":{\"stopId\":3300310,\"stopCode\":\"0635\",\"stopName\":\"상봉역\",\"group\":\"7\",\"major\":null,\"ktxStop\":\"Y\",\"srtStop\":\"N\",\"latitude\":\"37.5970913025278\",\"longitude\":\"127.085873483236\",\"distance\":0,\"city\":{\"id\":1000,\"fullName\":\"서울특별시\",\"name\":\"서울\"},\"provider\":{\"providerId\":301,\"providerName\":\"korail\"},\"expanded\":false},\"arrival\":{\"stopId\":3300333,\"stopCode\":\"0551\",\"stopName\":\"수서역\",\"group\":\"7\",\"major\":null,\"ktxStop\":\"N\",\"srtStop\":\"Y\",\"latitude\":\"37.4855438\",\"longitude\":\"127.1043773\",\"distance\":0,\"city\":{\"id\":1000,\"fullName\":\"서울특별시\",\"name\":\"서울\"},\"provider\":{\"providerId\":302,\"providerName\":\"srt\"},\"expanded\":false}},\"date\":1689577769373,\"key\":\"127.085873483236,37.5970913025278-127.1043773,37.4855438\"}",
+                "updateTime": 1689577769791,
+                "sync": false
+            },
+            {
+                "key": "127.1043773,37.4855438-129.137972360661,35.5514086234366",
+                "value": "{\"type\":\"routeType\",\"data\":{\"departure\":{\"stopId\":3300333,\"stopCode\":\"0551\",\"stopName\":\"수서역\",\"group\":\"7\",\"major\":null,\"ktxStop\":\"N\",\"srtStop\":\"Y\",\"latitude\":\"37.4855438\",\"longitude\":\"127.1043773\",\"distance\":0,\"city\":{\"id\":1000,\"fullName\":\"서울특별시\",\"name\":\"서울\"},\"provider\":{\"providerId\":302,\"providerName\":\"srt\"},\"expanded\":false},\"arrival\":{\"stopId\":3300300,\"stopCode\":\"0509\",\"stopName\":\"울산(통도사)역\",\"group\":\"8\",\"major\":\"17\",\"ktxStop\":\"Y\",\"srtStop\":\"Y\",\"latitude\":\"35.5514086234366\",\"longitude\":\"129.137972360661\",\"distance\":0,\"city\":{\"id\":6000,\"fullName\":\"울산광역시\",\"name\":\"울산\"},\"provider\":{\"providerId\":301,\"providerName\":\"korail\"},\"expanded\":false}},\"date\":1689574756809,\"key\":\"127.1043773,37.4855438-129.137972360661,35.5514086234366\"}",
+                "updateTime": 1689574757577,
+                "sync": false
+            },
+            {
+                "key": "127.085873483236,37.5970913025278-126.884803500218,37.4165340011257",
+                "value": "{\"type\":\"routeType\",\"data\":{\"departure\":{\"stopId\":3300310,\"stopCode\":\"0635\",\"stopName\":\"상봉역\",\"group\":\"7\",\"major\":null,\"ktxStop\":\"N\",\"srtStop\":\"N\",\"latitude\":\"37.5970913025278\",\"longitude\":\"127.085873483236\",\"distance\":0,\"city\":{\"id\":1000,\"fullName\":\"서울특별시\",\"name\":\"서울\"},\"provider\":{\"providerId\":301,\"providerName\":\"korail\"},\"expanded\":false},\"arrival\":{\"stopId\":3300024,\"stopCode\":\"0501\",\"stopName\":\"광명역\",\"group\":\"1\",\"major\":\"3\",\"ktxStop\":\"Y\",\"srtStop\":\"N\",\"latitude\":\"37.4165340011257\",\"longitude\":\"126.884803500218\",\"distance\":0,\"city\":{\"id\":1001,\"fullName\":\"경기도\",\"name\":\"경기\"},\"provider\":{\"providerId\":301,\"providerName\":\"korail\"},\"expanded\":false}},\"date\":1679482831532,\"key\":\"127.085873483236,37.5970913025278-126.884803500218,37.4165340011257\"}",
+                "updateTime": 1679482831859,
+                "sync": false
+            }
+        ],
+        "serverTime": 1689910529126
+    }
+}
